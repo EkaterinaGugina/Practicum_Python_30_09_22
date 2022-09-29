@@ -4,18 +4,10 @@
 # - 3 -> 11
 # - 2 -> 10
 
-def fib(k):
-    if k > 1:
-        return fib(k - 1) + fib(k - 2)
-    else:
-        if k == 1:
-            return 1
-        if k == 0:
-            return 0
 n = int(input('Введите натуральное число n = '))
-array_fib = [0] *(2*n + 1)
-for i in range(2*n + 1):
-    if i < n:
-        array_fib[i] = ((-1)**(i+1)) * fib(n - i)
-    elif i > n: array_fib[i] = fib(i - n)
-print(array_fib)
+string_binary = ''
+res = n
+while res > 0:
+    string_binary += str(res % 2)
+    res //= 2
+print(f'число {n} в двоичной системе --> {string_binary[: : -1]}')
