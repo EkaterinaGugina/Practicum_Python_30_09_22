@@ -56,7 +56,7 @@ Ex3.
 
 Выполнение программы:
 
-![пример 4](https://github.com/EkaterinaGugina/Practicum_Python_27_09_22/blob/main/HomeWork_27_09_22/Ex4_mult_condition_file.png)
+![пример 4](https://github.com/EkaterinaGugina/Practicum_Python_30_09_22/blob/main/HomeWork/Ex4_system_mod_2.png)
 
 ### Ex5_spisok_fib Задайте число. Составьте список чисел Фибоначчи, в том числе для отрицательных индексов.
 
