@@ -32,7 +32,7 @@ Ex3.
 
 Выполнение программы:
 
-![пример 2](https://github.com/EkaterinaGugina/Practicum_Python_27_09_22/blob/main/HomeWork_27_09_22/Ex2_array_factorial_num.png)
+![пример 2](https://github.com/EkaterinaGugina/Practicum_Python_30_09_22/blob/main/HomeWork/Ex2_mult_simm_elem.png)
 
 ### Ex3_dif_max_min. Задайте список из вещественных чисел. Напишите программу, которая найдёт разницу между максимальным и минимальным значением дробной части элементов.
 
