@@ -20,7 +20,7 @@ Ex3.
 
 Выполнение программы:
 
-![пример 1](https://github.com/EkaterinaGugina/Practicum_Python_27_09_22/blob/main/HomeWork_27_09_22/Ex1_dict_index_num.png)
+![пример 1](https://github.com/EkaterinaGugina/Practicum_Python_30_09_22/blob/main/HomeWork/Ex1_sum_num_not_mod_2.png)
 
 ### Ex2_mult_simm_elem. Напишите программу, которая найдёт произведение пар чисел списка. Парой считаем первый и последний элемент, второй и предпоследний и т.д.
 
