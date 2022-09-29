@@ -12,7 +12,7 @@ Ex3.
 
 # HomeWork
 
-### Ex1_sun_elem_not_mod_2 Задайте список из нескольких чисел. Напишите программу, которая найдёт сумму элементов списка, стоящих на нечётной позиции.
+### Ex1_sum_elem_not_mod_2 Задайте список из нескольких чисел. Напишите программу, которая найдёт сумму элементов списка, стоящих на нечётной позиции.
 
 Пример:
 
@@ -66,4 +66,4 @@ Ex3.
 
 Выполнение программы:
 
-![пример 5](https://github.com/EkaterinaGugina/Practicum_Python_27_09_22/blob/main/HomeWork_27_09_22/Ex4_mult_condition_file.png)
+![пример 5](https://github.com/EkaterinaGugina/Practicum_Python_30_09_22/blob/main/HomeWork/Ex5_spisok_fib.png)
