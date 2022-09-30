@@ -44,7 +44,7 @@ Ex4. Определить, позицию второго вхождения ст
 
 Выполнение программы:
 
-![пример 3](https://github.com/EkaterinaGugina/Practicum_Python_27_09_22/blob/main/HomeWork_27_09_22/Ex3_2_zam_lim.png)
+![пример 3](https://github.com/EkaterinaGugina/Practicum_Python_30_09_22/blob/main/HomeWork/Ex3_dif_max_min.png)
 
 ### Ex4_system_mod_2. Напишите программу, которая будет преобразовывать десятичное число в двоичное.
 
